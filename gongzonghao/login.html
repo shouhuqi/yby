@@ -1,0 +1,14 @@
+$def with(infos)
+<form action = "login" method = "post">
+      <label>username:</label>
+      <input type = "text" name = "username"><br />
+      <label>paswword:</label>
+      <input type = "password" name = "password"><br />
+      <input type = "submit" name = "submit">
+</form>
+
+<ul>
+$for info in infos:
+	<li id = "$info.SNo">$info.SName</li>
+</ul>
+
