@@ -1,0 +1,28 @@
+<view class="swiperview" hover-class="none" hover-stop-propagation="false">
+  <swiper indicator-dots="true" indicator-color="rgba(220, 206, 198,0.9)"
+      indicator-active-color="rgba(245, 71, 100,0.9)" 	autoplay="true"
+      interval="5000" duration="1000" 	circular="true" easing-function="easeInOutCubic"
+      next-margin = "60rpx" previous-margin="60rpx">
+    <swiper-item wx:for="{{swiperimage}}" wx:for-index="index" wx:key="a" wx:for-item="item">
+      <image class="swiperimage" src="{{item}}" mode="scaleToFill">
+      </image>
+    </swiper-item>
+  </swiper>
+</view>
+
+<view id="title">  老师列表 </view>
+<view class="classwaper" hover-class="none" hover-stop-propagation="false">
+  <view  wx:for="{{classroomlist}}" wx:for-index="index" wx:for-item="item" wx:key="name" class="classroom" bindtap = "gotoroomorder" data-index="{{index}}">
+    <image class="classimage" src="{{item.imageurl[0]}}" mode="scaleToFill" lazy-load="false" binderror="" bindload=""></image>
+    <view class="classinfo" hover-class="none" hover-stop-propagation="false">
+      <view class="classname" hover-class="none" hover-stop-propagation="false">
+      <text class="iconfont icon-jiaoshi "> </text>{{item.name}}</view>
+      <view class="classadress" hover-class="none" hover-stop-propagation="false">
+      <text class="iconfont icon-weizhi "> </text>{{item.adress}} </view>
+    </view>
+    <view class="classdescribe" hover-class="none" hover-stop-propagation="false">
+      <text class="iconfont icon-miaoshucopy "> </text>
+      {{item.describe}}
+    </view>
+  </view>
+</view>

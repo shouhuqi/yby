@@ -1,0 +1,23 @@
+<scroll-view scroll-y="true" class="rulecontent" hover-class="none" hover-stop-propagation="false" bindscrolltolower="viewscroll">
+    <view class="title">预约须知</view>
+    <view class="title2">一、预约步骤</view>
+    <view class="content" hover-class="none" hover-stop-propagation="false">
+        <view> 1.选择需要预约心理咨询老师</view>
+        <view> 2.选择合适的时间</view>
+        <view> 3.确认提交</view>
+    </view>
+    <view class="title2">二、注意事项</view>
+    <view class="content" hover-class="none" hover-stop-propagation="false">
+        <view> 1. 需要完善个人信息才能预约 </view>
+        <view> 2. 如果临时有事需要取消请至少提前3个小时取消 </view>
+        <view> 3. 如果爽约次数到的3次，将被计入黑名单 </view>
+    </view>
+</scroll-view>
+<view class="checkview" hover-class="none" hover-stop-propagation="false">
+    <radio id="chbox" bindtap="radioChange" checked="{{chboxchecked}}" disabled="{{rediodisabled}}" />
+    我已阅读并承诺遵守预约须知
+</view>
+<button id="rbtn" class="readbtn {{btndisabled?'btndisactive':''}}" disabled="{{btndisabled}}" bindtap="btnverify">
+    <text wx:if="{{counttime}}">正在阅读 ({{counttime}})</text>
+    <text wx:else>我已阅读</text>
+</button>
