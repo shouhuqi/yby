@@ -1,0 +1,100 @@
+ * Serving Flask app "apps" (lazy loading)
+ * Environment: development
+ * Debug mode: on
+ * Serving Flask app "apps" (lazy loading)
+ * Environment: development
+ * Debug mode: on
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+{'rid': 1, 'orgid': 2, 'name': 'yby1', 'adress': '深圳市', 'describe': '儿童心理', 'pdfname': None, 'pdfurl': None, 'imageurl': ['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png'], 'rcanbeusetimes': ['08:00-22:30', '08:15-09:00', '15:00-20:00'], 'isnewroom': 0}
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+{'rid': 2, 'orgid': 2, 'name': 'yby2', 'adress': '北京市', 'describe': '夫妻关系', 'pdfname': None, 'pdfurl': None, 'imageurl': ['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png'], 'rcanbeusetimes': ['08:00-09:00', '10:00-12:00'], 'isnewroom': 0}
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+{'rid': 3, 'orgid': 2, 'name': 'yby3', 'adress': '北京市', 'describe': '职场心理', 'pdfname': None, 'pdfurl': None, 'imageurl': ['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png'], 'rcanbeusetimes': ['08:00-09:00', '12:00-14:00'], 'isnewroom': 0}
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+xxxxxxxxxxxxxxxx edituserinfo: {'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0', 'uname': '蒋先生', 'uphonenum': '15919328501', 'isbasaceinfo': '1'}
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'bNX7g7jJhOYFu5QB91qtjQ==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start updateuser, data: {'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0', 'nickName': 'JDB', 'gender': 0, 'language': 'zh_CN', 'city': '', 'province': '', 'country': '', 'avatarUrl': 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLAml4UzJ7qLMqlib7U0aWkvF7Qac7EgKNoAVV1wKkfiaqpzYUFa5IoxdkAsuAz6wSZUMILnH1AmjMA/132'}
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'EkUGkvbisQVL28ngLB5mGg==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'EkUGkvbisQVL28ngLB5mGg==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'EkUGkvbisQVL28ngLB5mGg==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start updateuser, data: {'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0', 'nickName': 'JDB', 'gender': 0, 'language': 'zh_CN', 'city': '', 'province': '', 'country': '', 'avatarUrl': 'https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLAml4UzJ7qLMqlib7U0aWkvF7Qac7EgKNoAVV1wKkfiaqpzYUFa5IoxdkAsuAz6wSZUMILnH1AmjMA/132'}
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'yqacF8s/86gNyYQtA2WDOg==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start updateuser, data: {'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0', 'nickName': '微信用户', 'gender': 0, 'language': '', 'city': '', 'province': '', 'country': '', 'avatarUrl': 'https://thirdwx.qlogo.cn/mmopen/vi_32/POgEwh4mIHO4nibH0KlMECNjjGxQUq24ZEaGT4poC6icRiccVGKSyXwibcPq4BWmiaIGuG1icwxaQX6grC9VemZoJ8rg/132', 'is_demote': True}
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510534248.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510535551.png']
+['http://119.45.10.111:80/backend/api/v1/room/show/2023111510540662.png']
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'PaV/OSuI2jfUGS2jv4TzPA==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'PaV/OSuI2jfUGS2jv4TzPA==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'PaV/OSuI2jfUGS2jv4TzPA==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'PaV/OSuI2jfUGS2jv4TzPA==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start getOpenid
+xxxxxxx end getOpenid: {'session_key': 'PaV/OSuI2jfUGS2jv4TzPA==', 'openid': 'oGVl560ovS2Oh-z0Frrf7bxy8mB0'}
+xxxxxxx start updateuser, data:
